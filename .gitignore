@@ -1,0 +1,15 @@
+/node_modules
+/uploads
+
+/yarn.lock
+package-lock.json
+
+
+#log files
+*.log
+
+src/.DS_Store
+
+src/test
+
+.DS_Store

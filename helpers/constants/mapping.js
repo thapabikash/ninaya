@@ -1,0 +1,42 @@
+module.exports = {
+    'adopt_searches': {
+        'Date': 'date',
+        'Publisher': 'publisher',
+        'SubId': 'sub_id',
+        'Geo': 'geo',
+        'Impressions': 'total_searches',
+        'Page Views With Ads': 'monetized_searches',
+        'Paid Clicks': 'clicks',
+        'RPM': 'rpm',
+        'Net Revenue': 'net_revenue',
+        'RPQ': 'rpq',
+        'CTR': 'ctr',
+    },
+    'd2r_inh': {
+        'Date': 'date',
+        'Channel': 'sub_id',
+        'GEO': 'geo',
+        'Total_Searches': 'total_searches',
+        'MonetizedSearches': 'monetized_searches',
+        'Clicks': 'clicks',
+        'RPM': 'rpm',
+        "RPQ": 'rpq',
+        'Amount': 'net_revenue',
+        'CTR': 'ctr',
+    },
+    'ninaya': {
+        'Date': 'date',
+        'Publisher': 'publisher',
+        'SubID': 'sub_id',
+        'GEO': 'geo',
+        'Tag': 'tag',
+        'Total Searches': 'total_searches',
+        'Monetized Searches': 'monetized_searches',
+        'Clicks': 'clicks',
+        'RPM': 'rpm',
+        'RPQ': 'rpq',
+        'Net Revenue': 'net_revenue',
+        'CTR': 'ctr',
+    }
+
+}
